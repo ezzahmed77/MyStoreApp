@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Store App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Login</string>
+    <string name="userName">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account_text">Don\'t have account?</string>
+    <string name="or">Or</string>
+    <string name="register"><u>Register</u></string>
+    <string name="signup_photo">signUp_photo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="signup">Sign up</string>
+    <string name="full_name">Full Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="lorem_ipsum">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout content here\',</string>
+    <string name="next">Next</string>
+    <string name="instructions">Instructions</string>
+    <string name="show_items"><![CDATA[Show Items & Add New Ones]]></string>
+    <string name="finish">Finish</string>
+    <string name="login_photo">login_photo</string>
+    <string name="add_new_watch">Add New Watch</string>
+
+</resources>
